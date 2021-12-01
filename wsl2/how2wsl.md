@@ -49,5 +49,21 @@ All you have to do is wait, and your PC will automatically download Ubuntu and i
 ## Reboot
 Please reboot your PC.
 
+## User settings on Ubuntu.
+Press "Windows button" and type "ubuntu" directly. Ubuntu environment will be launched.
+
+Follow the instructions on the screen to set up your user name and password.
+
+Then you can use WSL2 just type
+```shell
+wsl
+```
+on your command prompt or powershell.
+
+Congrats!
+
+## Recommendation
+[Windows Terminal](https://www.microsoft.com/ja-jp/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) is an usefule tool.
+
 
 
